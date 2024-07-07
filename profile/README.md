@@ -14,6 +14,7 @@ Clobiverse is a GitHub organization founded by Caleb Alexander (GitHub: [Clobie]
 - DevOps
 - Automation Tools
 - Proof of Concepts
+- Teaching the community how to code!
 
 We believe in the power of collaboration and open-source development, and we are excited to see what we can create together.
 
